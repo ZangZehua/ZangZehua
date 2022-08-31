@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ZangZehua
-- 👀 I’m interested in ML，DL，RL，SCM...
+- 👋 Hi, I’m @ZangZehua zzh
+- 👀 I’m interested in ML，DL，RL，CV
 - 🌱 I’m currently learning RL+DL=？
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zehua2020@iscas.ac.cn
 
 <!---
